@@ -15,8 +15,8 @@ Também é especialmente adaptado para funcionar com [arquivos netCDF](http://ww
 
 Esse tutorial foi projetado para rodar no [Binder](https://mybinder.org/).
 O serviço permite executar totalmente na nuvem, nenhuma instalação extra é necessária.
-Para tanto, basta clicar [aqui](https://mybinder.org/v2/gh/fschuch/xarray-tutorial-python-brasil/master?urlpath=lab/python-brasil-2020):
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fschuch/xarray-tutorial-python-brasil/master?urlpath=lab/python-brasil-2020)
+Para tanto, basta clicar [aqui](https://mybinder.org/v2/gh/fschuch/xarray-tutorial-python-brasil/master?urlpath=lab):
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fschuch/xarray-tutorial-python-brasil/master?urlpath=lab)
 
 Se você prefere instalar o tutorial localmente, siga os seguintes passos:
 
